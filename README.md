@@ -54,6 +54,8 @@ Video presentation of early features in this build: [YouTube: NICManager - Query
 
 ## To Do/In Progress
 
+I'm sorry, but "ENENT" doesn't appear to be a valid word. Could you please provide a different word, description, or scenario? I'd be happy to help you generate a list of related and interesting words to enhance your writing
+
 - Design and code user authentication system.
   - Create password recovery/forgot password functionality.
 
